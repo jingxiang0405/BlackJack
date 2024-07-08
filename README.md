@@ -1,2 +1,10 @@
 # BlackJack
-simple CLI BlackJack game
+
+## build the project
+```
+make
+```
+## run the project
+```
+./exe
+```
